@@ -1,0 +1,4 @@
+﻿  Lab06.cpp
+C:\Users\armon\source\repos\Lab06\Lab06.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\armon\source\repos\Lab06\Lab06.cpp(38,21): warning C4018: '<': signed/unsigned mismatch
+  Lab06.vcxproj -> C:\Users\armon\source\repos\Lab06\x64\Debug\Lab06.exe
